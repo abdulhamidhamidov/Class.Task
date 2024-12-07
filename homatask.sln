@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperCrudApp", "DapperCrudApp\DapperCrudApp.csproj", "{2698D8B5-4F9C-444E-B66E-AA803CA3969C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infostructure", "Infostructure\Infostructure.csproj", "{45E330C1-0D29-4E0F-8FE5-6D552E8116BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2698D8B5-4F9C-444E-B66E-AA803CA3969C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2698D8B5-4F9C-444E-B66E-AA803CA3969C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2698D8B5-4F9C-444E-B66E-AA803CA3969C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2698D8B5-4F9C-444E-B66E-AA803CA3969C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45E330C1-0D29-4E0F-8FE5-6D552E8116BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45E330C1-0D29-4E0F-8FE5-6D552E8116BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45E330C1-0D29-4E0F-8FE5-6D552E8116BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45E330C1-0D29-4E0F-8FE5-6D552E8116BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
